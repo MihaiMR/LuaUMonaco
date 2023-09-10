@@ -33,7 +33,7 @@ define(["require", "exports"], function (require, exports) {
 				__children__: {},
 				__using__: ['libraries/Drawing']
 			},
-			"GhostX": {
+			"Krnl": {
 				__children__: {},
 				__using__: ['libraries/Krnl']
 			},
